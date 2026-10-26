@@ -32,6 +32,7 @@ Exploring clean architecture, functional web applications, and system automation
 ### 🚀 Projects
 
 - **[Campus Automasi](https://github.com/satt794/campus-automasi)**: Sistem manajemen jadwal, *budgeting*, dan pengingat tugas dengan notifikasi Telegram terintegrasi.
+- **[Bekasi Transit](https://github.com/satt794/bekasi-transit-hub))**: Sistem informasi rute, jadwal, dan panduan transportasi publik terpadu untuk wilayah Bekasi.
 
 ### 📊 GitHub Activity
 
